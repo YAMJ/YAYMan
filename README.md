@@ -72,32 +72,20 @@ If you do not already have YAMJ installed, then just create a folder wherever yo
 
 1. Put "YAYMan.jar"
      into your YAMJ folder (not your jukebox folder)
-2. Put the below files in your
-     YAMJ/lib folder
+2. Put the below files in your YAMJ/lib folder
     - appframework-1.0.3.jar
     - cling-core-1.0.jar
     - swing-worker-1.1.jar
     - teleal-common-1.0.11.jar
 
-3. Run YAYMan.jar (you can
-     double-click it in Windows)
-4. When prompted, tell YAYMan
-     to download YAMJ (this should only happen if you do not already have YAMJ
-     installed)
-5. You can choose to either
-     run the wizard or set up manually. Below are the manual setup
-     instructions.
+3. Run YAYMan.jar (you can double-click it in Windows)
+4. When prompted, tell YAYMan to download YAMJ (this should only happen if you do not already have YAMJ installed)
+5. You can choose to either run the wizard or set up manually. Below are the manual setup instructions.
 6. Click Edit ? Preferences
-    - Make
-      sure YAYMan is using the correct library xml file
-    - Make
-      sure YAYMan is using the correct user-defined properties file
-    - If
-      either of the above are incorrect, click on them and choose the correct
-      file.
-    - Click
-      on your properties file, choose Edit, and verify that mjb.jukeboxRoot and
-      mjb.detailsDirName are set properly (see below)
+    - Make sure YAYMan is using the correct library xml file
+    - Make sure YAYMan is using the correct user-defined properties file
+    - If either of the above are incorrect, click on them and choose the correct file.
+    - Click on your properties file, choose Edit, and verify that mjb.jukeboxRoot and mjb.detailsDirName are set properly (see below)
 
 **Vital Variables: mjb.jukeboxRoot and mjb.detailsDirName**
 
