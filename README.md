@@ -20,7 +20,7 @@ Contents
 - [YAYMan Initial Setup Instructions](#yayman-initial-setup-instructions)
 - [YAYMan Update Instructions](#yayman-update-instructions)
 - [Note for Linux Users](#note-for-linux-users)
-- [Revision History](#revision)
+- [Revision History](HISTORY.md)
 
 ### Using YAYMan
 
